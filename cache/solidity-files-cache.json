@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/home/ebenezer/Desktop/Web3bridge/14FEB/contracts/Erc20contarct.sol": {
+      "lastModificationDate": 1707987796437,
+      "contentHash": "ca46a241c1a2242609f2e4e705cdcc8f",
+      "sourceName": "contracts/Erc20contarct.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.0"
+      ],
+      "artifacts": [
+        "Erc20contract"
+      ]
+    }
+  }
+}
